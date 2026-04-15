@@ -2,7 +2,7 @@
 FOR LOOP: used to print something certain number of time
 for i in range(1, 5, 2):
     print(i)
-print("we are done")   
+print("we are done")
 
 n = int(input("Enter the number:"))
 sum = 0
