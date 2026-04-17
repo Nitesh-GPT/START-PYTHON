@@ -6,5 +6,9 @@ for i in Sentence:
 '''
 Sentence = "Hello my is Nitesh and i'm looking for an professional job in IT"
 for char in Sentence:
-    if char in "Nx":
+    if char in "N":
       print("hello  yes they are!")
+      
+    else:
+        print("No match found")
+        
